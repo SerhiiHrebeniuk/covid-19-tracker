@@ -1,5 +1,6 @@
 
 Project Console: https://console.firebase.google.com/project/covid-19-tracker-6065f/overview
+
 Hosting URL: https://covid-19-tracker-6065f.web.app
 
 
